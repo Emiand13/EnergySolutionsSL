@@ -158,6 +158,33 @@ h4 {
   transition: 0.2s;
 }
 
+
+
+.mensaje-inicio{
+  font-weight: 700;
+margin-top: 150px;
+/* display: block;
+justify-content: flex-start; */
+}
+
+.mensaje-grande h1{
+  font-weight: 700;
+  margin-top: 1.5em;
+margin-left: 1.5em;
+font-size: 65px;
+/* width: 600px; */
+
+}
+
+
+
+
+
+
+
+
+
+
 /*FIN INDEX VALORES GENERALES ============================== */
 
 
